@@ -21,8 +21,13 @@ Solutions
 
 Solving the unsolvable with neuroevolution...
 
+---
+
+Stepping up the MLP with more complexity to put neuroevolution in perspective
 
 ---
+
+
 
 
 
