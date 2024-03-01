@@ -23,7 +23,7 @@ Solving the unsolvable with neuroevolution...
 
 ---
 
-Stepping up the MLP with more complexity to put neuroevolution in perspective
+Stepping up the MLP with more complexity (Demonstrate neuroevolution at 'circles' and another complex problem)
 
 ---
 
