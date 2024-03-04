@@ -5,10 +5,10 @@
 This repository contains a basic MLP implemented from scratch to demonstrate its capabilities in comparison to other machine learning methods across different problems of varying complexity.
 
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Problem      | Logistic Regression solution | MLP Solution
+| ----------- | ----------- | ----------- |
+| Header      | Title       |              |
+| Paragraph   | Text        |              |
 
 MLP Background
 ...
