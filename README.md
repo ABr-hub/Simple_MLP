@@ -28,7 +28,7 @@ Stepping up the MLP with more complexity (Demonstrate neuroevolution at 'circles
 ---
 
 
-<img src="https://github.com/ABr-hub/Simple_MLP/blob/f25321811243281fa3d8e7e76132016ffe8aeb8f/ressources/circlesMLP.gif"  width=44% height=44%/> <img src="https://github.com/ABr-hub/Simple_MLP/blob/f25321811243281fa3d8e7e76132016ffe8aeb8f/ressources/mlpMoon.gif"  width=45% height=45%/>
+<img src="https://github.com/ABr-hub/Simple_MLP/blob/f25321811243281fa3d8e7e76132016ffe8aeb8f/ressources/circlesMLP.gif"  width=44% height=44%/> <img src="https://github.com/ABr-hub/Simple_MLP/blob/f25321811243281fa3d8e7e76132016ffe8aeb8f/ressources/mlpMoon.gif"  width=43% height=43%/>
 
 
 
