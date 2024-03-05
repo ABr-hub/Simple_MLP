@@ -15,13 +15,13 @@ The table below presents different classification problems. The objective is to 
 | 3 | <img src="https://github.com/ABr-hub/Simple_MLP/blob/dda64ba3f036427e5fa6fbf7f48ce5e76cc18075/ressources/CirclesProblem/circles_Problem.png" width=95% height=95%> | <img src="https://github.com/ABr-hub/Simple_MLP/blob/dda64ba3f036427e5fa6fbf7f48ce5e76cc18075/ressources/CirclesProblem/circles_LR.png" width=95% height=95%>  |  <img src="https://github.com/ABr-hub/Simple_MLP/blob/08ff0705d35ce800dfb310fda01cddb653f6545c/ressources/CirclesProblem/circles_MLP.png" width=95% height=95%>           |
 | 4 | <img src="https://github.com/ABr-hub/Simple_MLP/blob/775fc542d07f9f4ce8e6f9d51c38730eee1b8332/ressources/MoonsProblem/moons_Problem.png" width=95% height=95%> | <img src="https://github.com/ABr-hub/Simple_MLP/blob/775fc542d07f9f4ce8e6f9d51c38730eee1b8332/ressources/MoonsProblem/moons_LR.png" width=95% height=95%>  |  <img src="https://github.com/ABr-hub/Simple_MLP/blob/775fc542d07f9f4ce8e6f9d51c38730eee1b8332/ressources/MoonsProblem/moons_MLP.png" width=95% height=95%>           |
 
-1. Simple blobs:
+**1. Random classification:**
 
-2. Gaussian:
+**2. Gaussian:**
 
-3. Circles:
+**3. Circles:**
 
-4. Half-Moons:
+**4. Half-moons:**
 
 Description of the table and the problems as well as solutions showcased; (Unsolvable problems can be solved with more complex model; SVM etc.)
 
