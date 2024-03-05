@@ -6,7 +6,7 @@ This repository contains a **basic MLP**, implemented from scratch to demonstrat
 
 ---
 
-The table below presents different classification problems. The objective is to identify separating lines that effectively distinguish between the blue and red dots. The plot displays the resulting regions indicating the color affiliation. These regions are delineated to illustrate the classification outcomes, with distinct areas representing the affiliation of different colors.
+The table below presents different classification problems (= problems where data points belong to one of two classes). The objective is to identify separating lines that effectively distinguish between the blue and red dots. The plot displays the resulting regions indicating the color affiliation. These regions are delineated to illustrate the classification outcomes, with distinct areas representing the affiliation of different colors.
 
 | # | Problem     | Logistic Regression Solution | MLP Solution
 | :----: |    :----:   |    :----:   |    :----:   |
@@ -17,11 +17,15 @@ The table below presents different classification problems. The objective is to 
 
 **1. Random classification:**
 
+
 **2. Gaussian:**
 
 **3. Circles:**
 
 **4. Half-moons:**
+
+
+
 
 Description of the table and the problems as well as solutions showcased; (Unsolvable problems can be solved with more complex model; SVM etc.)
 
