@@ -7,7 +7,7 @@ This repository contains a **basic MLP**, implemented from scratch to demonstrat
 ---
 
 The table below presents different classification problems. The objective is to identify separating lines that effectively distinguish between the blue and red dots. The plot displays the resulting regions indicating the color affiliation. These regions are delineated to illustrate the classification outcomes, with distinct areas representing the affiliation of different colors.
-<span style="color:blue">some *This is Blue italic.* text</span>
+<font color='red'>test blue color font</font>
 
 | # | Problem     | Logistic Regression Solution | MLP Solution
 | :----: |    :----:   |    :----:   |    :----:   |
