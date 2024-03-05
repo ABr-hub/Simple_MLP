@@ -6,7 +6,7 @@ This repository contains a basic MLP implemented from scratch to demonstrate its
 
 
 | Problem      | Logistic Regression Solution | MLP Solution
-| ----------- | ----------- | ----------- |
+|    :----:   |    :----:   |    :----:   |
 | Classification      | <img src="https://github.com/ABr-hub/Simple_MLP/blob/d565a1cc58b9cd654e9bb088db2ace694e3aa812/ressources/Classification_LR.png" width=50% height=50%>  |  <img src="https://github.com/ABr-hub/Simple_MLP/blob/d565a1cc58b9cd654e9bb088db2ace694e3aa812/ressources/Classification_MLP.png" width=50% height=50%>           |
 | Paragraph   | Text        |              |
 
