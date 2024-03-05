@@ -2,9 +2,12 @@
 
 ***(Please be patient. This repository is under construction.)***
 
-This repository contains a basic MLP, implemented from scratch to demonstrate it's capabilities in comparison to th logistic regression as a basline machine learning method across different problems of varying complexity.
+This repository contains a **basic MLP**, implemented from scratch to demonstrate it's capabilities in comparison to the **logistic regression** as a basline machine learning method across different problems of varying complexity.
 
 ---
+
+The table below presents different classification problems. The objective is to identify separating lines that effectively distinguish between the blue and red dots. The plot displays the resulting regions indicating the color affiliation. These regions are delineated to illustrate the classification outcomes, with distinct areas representing the affiliation of different colors.
+
 
 | # | Problem     | Logistic Regression Solution | MLP Solution
 | :----: |    :----:   |    :----:   |    :----:   |
