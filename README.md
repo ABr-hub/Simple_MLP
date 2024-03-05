@@ -8,7 +8,6 @@ This repository contains a basic MLP implemented from scratch to demonstrate its
 | Problem      | Logistic Regression Solution | MLP Solution
 |    :----:   |    :----:   |    :----:   |
 | <img src="https://github.com/ABr-hub/Simple_MLP/blob/8cafb31ea28e5df6ea8a2a9b401f74b8f2fdb33f/ressources/Comparison_LR_MLP/Classification_Problem.png" width=95% height=95%> | <img src="https://github.com/ABr-hub/Simple_MLP/blob/7f005a126dae80dfbbd4f285fe9ac52c4f73594a/ressources/Comparison_LR_MLP/Classification_LR.png" width=95% height=95%>  |  <img src="https://github.com/ABr-hub/Simple_MLP/blob/7f005a126dae80dfbbd4f285fe9ac52c4f73594a/ressources/Comparison_LR_MLP/Classification_MLP.png" width=95% height=95%>           |
-
 | <img src="https://github.com/ABr-hub/Simple_MLP/blob/817fda41d9ca4a699873cd992057347ec36d5d12/ressources/GaussianQuantilesProblem/GaussianQuantiles_Problem.png" width=95% height=95%> | <img src="https://github.com/ABr-hub/Simple_MLP/blob/817fda41d9ca4a699873cd992057347ec36d5d12/ressources/GaussianQuantilesProblem/GaussianQuantiles_LR.png" width=95% height=95%>  |  <img src="https://github.com/ABr-hub/Simple_MLP/blob/817fda41d9ca4a699873cd992057347ec36d5d12/ressources/GaussianQuantilesProblem/GaussianQuantiles_MLP.png" width=95% height=95%>           |
 
 
