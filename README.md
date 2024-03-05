@@ -2,8 +2,9 @@
 
 ***(Please be patient. This repository is under construction.)***
 
-This repository contains a basic MLP implemented from scratch to demonstrate its capabilities in comparison to other machine learning methods across different problems of varying complexity.
+This repository contains a basic MLP, implemented from scratch to demonstrate it's capabilities in comparison to th logistic regression as a basline machine learning method across different problems of varying complexity.
 
+---
 
 | # | Problem     | Logistic Regression Solution | MLP Solution
 | :----: |    :----:   |    :----:   |    :----:   |
