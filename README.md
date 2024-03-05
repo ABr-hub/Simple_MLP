@@ -7,7 +7,7 @@ This repository contains a **basic MLP**, implemented from scratch to demonstrat
 ---
 
 The table below presents different classification problems (= problems where data points belong to one of two classes). The objective is to identify separating lines that effectively distinguish between the blue and red dots.
-Two possibile classification methods were applied to solve this problem:
+Two possible classification methods are applied and compared to solve this problem:
 
 1. <ins>Logistic regression</ins>: A linear classification model that predicts the probability that a given input belongs to a certain class.
 2. <ins>Multi-layer-perceptron</ins>: A type of artificial neural network composed of multiple layers of nodes (neurons) that use non-linear activation functions.
