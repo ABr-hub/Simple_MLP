@@ -90,6 +90,8 @@ Solutions
 
 ### ... neuroevolution
 
+This method replaces the network optimization method used in the MLP. Instead of using any form of backpropagation of loss through optimizers like gradient descent or Adam, it rely entirely on **<ins>genetic algorithm</ins>**
+
 ### ... higher complexity
 
 The accompanying images illustrate the iterative problem-solving process observed during the neural network's training phase, featuring a selection of sample problems. As training progresses, notable refinements to the decision boundary are evident, ultimately yielding an accuracy rate surpassing 90% for each respective problem scenario.
