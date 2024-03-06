@@ -24,26 +24,26 @@ The plots displays the resulting regions indicating the color affiliation. These
 **<ins># 1. Random classification:</ins>**
  * **Problem**: The data points are randomly distributed in a two-dimensional space.
  * **Solution**
-   * Logistic Regression: The logistic regression as linear classifier, can find a relatively good separating line, depending on the difficulty of the dataset.
-   * MLP: When comparing the performance of the MLP classifier to logistic regression, it becomes evident that the MLP's ability to capture non-linear relationships leads to more complex and flexible decision boundaries. These boundaries better accommodate intricate patterns within the data, enhancing the classifier's discriminative power.
+   * *Logistic Regression*: The logistic regression as linear classifier, can find a relatively good separating line, depending on the difficulty of the dataset.
+   * *MLP*: When comparing the performance of the MLP classifier to logistic regression, it becomes evident that the MLP's ability to capture non-linear relationships leads to more complex and flexible decision boundaries. These boundaries better accommodate intricate patterns within the data, enhancing the classifier's discriminative power.
    
 **<ins># 2. Gaussian Quantiles:</ins>**
  * **Problem**: This classification dataset is generated from a multi-dimensional standard normal distribution. The classes are determined by nested concentric multi-dimensional spheres, ensuring that each class contains roughly the same number of samples. These spherical boundaries divide the data into segments, or quantiles, based on the distribution's characteristics.
  * **Solution**
-   * Logistic Regression:
-   * MLP: 
+   * *Logistic Regression*:
+   * *MLP*: 
 
 **<ins># 3. Circles:</ins>**
  * **Problem**: This classification task involves a circular structure where a larger circle encompasses a smaller circle within it.
  * **Solution**
-   * Logistic Regression:
-   * MLP:  
+   * *Logistic Regression*:
+   * *MLP*:  
 
 **<ins># 4. Half-moons:</ins>**
  * **Problem**: This classification task involves two interleaving half circles.
  * **Solution**
-   * Logistic Regression:
-   * MLP: 
+   * *Logistic Regression*:
+   * *MLP*: 
 
 
 
