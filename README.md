@@ -32,7 +32,7 @@ The plots displays the resulting regions indicating the color affiliation. These
  * **Problem**: This classification dataset is generated from a multi-dimensional standard normal distribution. The classes are determined by nested concentric multi-dimensional spheres, ensuring that each class contains roughly the same number of samples. These spherical boundaries divide the data into segments, or quantiles, based on the distribution's characteristics.
  * **Solution**:
    * *Logistic Regression*: Due to the non-inear nature of this specific classification problem the logistic regression classifier can not find appropriate decision boundaries to solve this problem. Due to the "symmetric" nature of the problem, the classification performance lies around ~50%.
-   * *MLP*: 
+   * *MLP*: Similar to the previous point, the MLP's non-linear capabilities facilitate the discovery of effective decision boundaries, resulting in high classification performance.
 
 **<ins># 3. Circles:</ins>**
  * **Problem**: This classification task involves a circular structure where a larger circle encompasses a smaller circle within it.
