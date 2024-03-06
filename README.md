@@ -31,7 +31,7 @@ The plots displays the resulting regions indicating the color affiliation. These
 **<ins># 2. Gaussian Quantiles:</ins>**
  * **Problem**: This classification dataset is generated from a multi-dimensional standard normal distribution. The classes are determined by nested concentric multi-dimensional spheres, ensuring that each class contains roughly the same number of samples. These spherical boundaries divide the data into segments, or quantiles, based on the distribution's characteristics.
  * **Solution**:
-   * *Logistic Regression*: Due to the non-inear nature of this specific classification problem the logistic regression classifier can not find appropriate decision boundaries to solve this problem. Due to the "symmetric" nature of the problem, the classification performance is arounf ~50%.
+   * *Logistic Regression*: Due to the non-inear nature of this specific classification problem the logistic regression classifier can not find appropriate decision boundaries to solve this problem. Due to the "symmetric" nature of the problem, the classification performance lies around ~50%.
    * *MLP*: 
 
 **<ins># 3. Circles:</ins>**
