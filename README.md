@@ -34,13 +34,13 @@ The plots displays the resulting regions indicating the color affiliation. These
    * MLP: 
 
 **<ins>3. Circles:</ins>**
- * **Problem**: 
+ * **Problem**: This classification task involves a circular structure where a larger circle encompasses a smaller circle within it.
  * **Solution**
    * Logistic Regression:
    * MLP:  
 
 **<ins>4. Half-moons:</ins>**
- * **Problem**: 
+ * **Problem**: This classification task involves two interleaving half circles.
  * **Solution**
    * Logistic Regression:
    * MLP: 
