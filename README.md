@@ -37,13 +37,13 @@ The plots displays the resulting regions indicating the color affiliation. These
 **<ins># 3. Circles:</ins>**
  * **Problem**: This classification task involves a circular structure where a larger circle encompasses a smaller circle within it.
  * **Solution**:
-   * *Logistic Regression*:
+   * *Logistic Regression*: As in #2 & #4 the logistic regression classifier can not find appropriate decision boundaries to solve this problem.
    * *MLP*:  
 
 **<ins># 4. Half-moons:</ins>**
  * **Problem**: This classification task involves two interleaving half circles.
  * **Solution**:
-   * *Logistic Regression*:
+   * *Logistic Regression*: As in #2 & #3 the logistic regression classifier can not find appropriate decision boundaries to solve this problem.
    * *MLP*: 
 
 
