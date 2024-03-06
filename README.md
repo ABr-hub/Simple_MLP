@@ -80,7 +80,7 @@ The plots displays the resulting regions indicating the color affiliation. These
 
 ## Solving the unsolvable with ...
 
-*(The methods discussed in this section are only )*
+*(The methods discussed in this section are only briefly outlined, since the focus of this repository is on the mechanics, implementation and demonstration of the fundamental mlp)*
 
 ### ... neuroevolution
 
