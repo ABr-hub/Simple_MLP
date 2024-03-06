@@ -28,6 +28,7 @@ A multilayer perceptron (MLP) is a type of artificial neural network with multip
 
 $$f(\textbf{x}) = \textbf{y} = \sigma (\textbf{x}^T \textbf{W}  + \textbf{b})$$
 
+### Backpropagation
 
 --- 
 ## A simple MLP in action
