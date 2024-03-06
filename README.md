@@ -75,14 +75,6 @@ The plots displays the resulting regions indicating the color affiliation. These
    * *MLP*: The moons classification problem involves highly intricate or overlapping moon shape. Due to the low complexity of the implemented mlp, it struggles to find a suitable descision boundary to accurately separate the two classes.
 
 ...
-  - Backrpop
-
-Problems
-...
-
-Solutions
-...
-
 
 ---
 
