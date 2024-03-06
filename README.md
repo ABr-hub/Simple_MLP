@@ -90,7 +90,7 @@ Solutions
 
 ### ... neuroevolution
 
-This method replaces the network optimization method used in the MLP. Instead of using any form of backpropagation of loss through optimizers like gradient descent or Adam, it rely entirely on **<ins>genetic algorithm</ins>**
+This method replaces the network optimization method used in the MLP. Instead of using any form of backpropagation of loss through optimizers like gradient descent or Adam, it relies entirely on **<ins>genetic algorithm</ins>**
 
 ### ... higher complexity
 
