@@ -23,8 +23,9 @@ The plots displays the resulting regions indicating the color affiliation. These
 
 **<ins>1. Random classification:</ins>**
  * Problem: The data points are randomly distributed in a two-dimensional space.
- * Logistic Regression:
- * MLP: 
+ * Solution
+   ** Logistic Regression:
+   ** MLP: 
 
 **<ins>2. Gaussian:</ins>**
  * Problem:
