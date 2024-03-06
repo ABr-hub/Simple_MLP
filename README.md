@@ -84,7 +84,7 @@ The plots displays the resulting regions indicating the color affiliation. These
 
 ### ... neuroevolution
 
-This method replaces the network optimization method used in the MLP. Instead of using any form of backpropagation of loss through optimizers like gradient descent or Adam, it relies entirely on **<ins>genetic algorithm</ins>**
+This method replaces the network optimization method used in the MLP. Instead of using any form of backpropagation of loss through optimizers like gradient descent or Adam, it relies entirely on **<ins>genetic algorithm</ins>** It should be considered, that the same mlp as in the section before using backpropagation could only achieve ~50% at the same problem.
 
 ### ... higher complexity
 
