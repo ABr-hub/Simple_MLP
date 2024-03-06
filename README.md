@@ -12,7 +12,10 @@ NOTE: The drawings are taken out of my PhD Thesis ***"Deep-learning based condit
 ### Percepton
 A simple perceptron is a single-layer neural network that consists of one input layer and one output layer. The perceptron takes input features, multiplies them by corresponding weights, sums them up with a bias term, and applies an activation function (commonly a step function or sigmoid function) to produce an output. The output is then compared to a threshold to make a binary prediction. 
 
+![grafik](https://github.com/ABr-hub/Simple_MLP/assets/67805783/b4e9f4c1-38a1-4626-8ad1-ec6347c9e753)
+
 $$f(x) = y = w_1 x_1 + w_2 x_2 + ... + w_n x_n + w_b b= \sigma(\mathbf{x}^T\mathbf{w} + b)$$
+
 
 ### Multi-Layer-Perceptron
 A multilayer perceptron (MLP) is a type of artificial neural network with multiple layers, including one or more hidden layers between the input and output layers. Each neuron in the hidden layers receives inputs from the previous layer, performs a weighted sum of these inputs, adds a bias term, and applies an activation function to produce an output. The outputs of the hidden layers are passed to the subsequent layers until the final output layer, where the network produces predictions. MLPs can learn complex non-linear relationships in the data, making them suitable for various tasks such as classification, regression, and pattern recognition. Training an MLP involves adjusting the weights and biases using optimization algorithms like gradient descent to minimize a loss function, thereby improving the network's performance on the given task.
