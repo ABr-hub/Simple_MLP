@@ -15,6 +15,8 @@ A simple perceptron is a single-layer neural network that consists of one input 
 ### Multi-Layer-Perceptron
 A multilayer perceptron (MLP) is a type of artificial neural network with multiple layers, including one or more hidden layers between the input and output layers. Each neuron in the hidden layers receives inputs from the previous layer, performs a weighted sum of these inputs, adds a bias term, and applies an activation function to produce an output. The outputs of the hidden layers are passed to the subsequent layers until the final output layer, where the network produces predictions. MLPs can learn complex non-linear relationships in the data, making them suitable for various tasks such as classification, regression, and pattern recognition. Training an MLP involves adjusting the weights and biases using optimization algorithms like gradient descent to minimize a loss function, thereby improving the network's performance on the given task.
 
+$$f(\textbf{x}) = \textbf{y} = \sigma (\textbf{x}^T \textbf{W}  + \textbf{b})$$
+
 
 --- 
 ## A simple MLP in action
