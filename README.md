@@ -21,16 +21,25 @@ The plots displays the resulting regions indicating the color affiliation. These
 | 3 | <img src="https://github.com/ABr-hub/Simple_MLP/blob/dda64ba3f036427e5fa6fbf7f48ce5e76cc18075/ressources/CirclesProblem/circles_Problem.png" width=95% height=95%> | <img src="https://github.com/ABr-hub/Simple_MLP/blob/dda64ba3f036427e5fa6fbf7f48ce5e76cc18075/ressources/CirclesProblem/circles_LR.png" width=95% height=95%>  |  <img src="https://github.com/ABr-hub/Simple_MLP/blob/08ff0705d35ce800dfb310fda01cddb653f6545c/ressources/CirclesProblem/circles_MLP.png" width=95% height=95%>           |
 | 4 | <img src="https://github.com/ABr-hub/Simple_MLP/blob/775fc542d07f9f4ce8e6f9d51c38730eee1b8332/ressources/MoonsProblem/moons_Problem.png" width=95% height=95%> | <img src="https://github.com/ABr-hub/Simple_MLP/blob/775fc542d07f9f4ce8e6f9d51c38730eee1b8332/ressources/MoonsProblem/moons_LR.png" width=95% height=95%>  |  <img src="https://github.com/ABr-hub/Simple_MLP/blob/775fc542d07f9f4ce8e6f9d51c38730eee1b8332/ressources/MoonsProblem/moons_MLP.png" width=95% height=95%>           |
 
-**1. Random classification:**
+**<ins>1. Random classification:</ins>**
  * Problem:
  * Logistic Regression:
  * MLP: 
 
-**2. Gaussian:**
+**<ins>2. Gaussian:</ins>**
+ * Problem:
+ * Logistic Regression:
+ * MLP: 
 
-**3. Circles:**
+**<ins>3. Circles:</ins>**
+ * Problem:
+ * Logistic Regression:
+ * MLP: 
 
-**4. Half-moons:**
+**<ins>4. Half-moons:</ins>**
+ * Problem:
+ * Logistic Regression:
+ * MLP: 
 
 
 
