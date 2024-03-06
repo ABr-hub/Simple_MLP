@@ -63,12 +63,6 @@ The plots displays the resulting regions indicating the color affiliation. These
    * *Logistic Regression*: As in #2 the logistic regression classifier can not find appropriate decision boundaries to solve this problem.
    * *MLP*: The moons classification problem involves highly intricate or overlapping moon shape. Due to the low complexity of the implemented mlp, it struggles to find a suitable descision boundary to accurately separate the two classes.
 
-
-
-
-
-
-MLP Background (Draft Network, Perceptron as well as description)
 ...
   - Backrpop
 
@@ -81,7 +75,7 @@ Solutions
 
 ---
 
-Solving the unsolvable with neuroevolution...
+## Solving the unsolvable with ...
 
 ---
 
