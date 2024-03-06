@@ -80,6 +80,8 @@ The plots displays the resulting regions indicating the color affiliation. These
 
 ## Solving the unsolvable with ...
 
+*(The methods discussed in this section are only )*
+
 ### ... neuroevolution
 
 This method replaces the network optimization method used in the MLP. Instead of using any form of backpropagation of loss through optimizers like gradient descent or Adam, it relies entirely on **<ins>genetic algorithm</ins>**
