@@ -5,6 +5,9 @@
 This repository contains a **basic MLP**, implemented from scratch to demonstrate it's capabilities in comparison to the **logistic regression** as a basline machine learning method across different problems of varying complexity.
 
 ---
+### The MLP
+
+--- 
 
 The table below presents different classification problems (= problems where data points belong to one of two classes). The objective is to identify separating lines (decision boundaries) that effectively distinguish between the blue and red dots.
 Two possible classification methods are applied and compared to solve this problem:
@@ -47,9 +50,6 @@ The plots displays the resulting regions indicating the color affiliation. These
    * *MLP*: The moons classification problem involves highly intricate or overlapping moon shape. Due to the low complexity of the implemented mlp, it struggles to find a suitable descision boundary to accurately separate the two classes.
 
 
-
-
-Description of the table and the problems as well as solutions showcased; (Unsolvable problems can be solved with more complex model; SVM etc.)
 
 
 
