@@ -38,7 +38,7 @@ The plots displays the resulting regions indicating the color affiliation. These
  * **Problem**: This classification task involves a circular structure where a larger circle encompasses a smaller circle within it.
  * **Solution**:
    * *Logistic Regression*: As in #2 the logistic regression classifier can not find appropriate decision boundaries to solve this problem.
-   * *MLP*: 
+   * *MLP*: Due to the non-linearity of the data distribution the implemented, very simple mlp faces difficulties. The mlp lacks the depth and complexity to learn the non-linear transformations, and struggles to delineate clear decision boundaries between the concentric circles, leading to poor classification performance.
 
 **<ins># 4. Half-moons:</ins>**
  * **Problem**: This classification task involves two interleaving half circles.
