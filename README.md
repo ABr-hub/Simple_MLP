@@ -9,7 +9,8 @@ NOTE: The drawings are taken out of my PhD Thesis ***"Deep-learning based condit
 ---
 ## The MLP
 
-### Perceptom
+### Percepton
+A simple perceptron is a single-layer neural network that consists of one input layer and one output layer. The perceptron takes input features, multiplies them by corresponding weights, sums them up with a bias term, and applies an activation function (commonly a step function or sigmoid function) to produce an output. The output is then compared to a threshold to make a binary prediction. 
 
 ### Multi-Layer-Perceptron
 
