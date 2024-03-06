@@ -2,7 +2,7 @@
 
 ***(Please be patient. This repository is under construction.)***
 
-This repository contains a **basic MLP**, implemented from scratch to demonstrate it's capabilities in comparison to the **logistic regression** as a basline machine learning method across different problems of varying complexity.
+This repository contains a **basic MLP**, implemented from scratch to demonstrate it's capabilities in comparison to the **logistic regression** as a basline machine learning method across different problems of varying complexity. Furthermore the backpropagation algorithm which makes optimizing modern deep learning models convenient is examined.
 
 NOTE: The drawings are taken out of my PhD Thesis ***"Deep-learning based condition monitoring of electro-mechanical drive-systems. (2024)"***
 
