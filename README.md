@@ -12,7 +12,9 @@ NOTE: The drawings are taken out of my PhD Thesis ***"Deep-learning based condit
 ### Percepton
 A simple perceptron is a single-layer neural network that consists of one input layer and one output layer. The perceptron takes input features, multiplies them by corresponding weights, sums them up with a bias term, and applies an activation function (commonly a step function or sigmoid function) to produce an output. The output is then compared to a threshold to make a binary prediction. 
 
-![grafik](https://github.com/ABr-hub/Simple_MLP/assets/67805783/50c03b32-a7ca-48f5-bac5-934a9b21b5f5)
+<p align="center">
+  <img src="https://github.com/ABr-hub/Simple_MLP/assets/67805783/50c03b32-a7ca-48f5-bac5-934a9b21b5f5" />
+</p>
 
 $$f(x) = y = w_1 x_1 + w_2 x_2 + ... + w_n x_n + w_b b= \sigma(\mathbf{x}^T\mathbf{w} + b)$$
 
