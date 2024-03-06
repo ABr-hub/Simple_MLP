@@ -7,10 +7,15 @@ This repository contains a **basic MLP**, implemented from scratch to demonstrat
 NOTE: The drawings are taken out of my PhD Thesis ***"Deep-learning based condition monitoring of electro-mechanical drive-systems. (2024)"***
 
 ---
-### The MLP
+## The MLP
+
+### Perceptom
+
+### Multi-Layer-Perceptron
+
 
 --- 
-### A simple MLP in action
+## A simple MLP in action
 
 The table below presents different classification problems (= problems where data points belong to one of two classes). The objective is to identify separating lines (decision boundaries) that effectively distinguish between the blue and red dots.
 Two possible classification methods are applied and compared to solve this problem:
