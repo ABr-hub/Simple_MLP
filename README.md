@@ -12,7 +12,7 @@ Two possible classification methods are applied and compared to solve this probl
 1. <ins>Logistic regression</ins>: A linear classification model that predicts the probability that a given input belongs to a certain class.
 2. <ins>Multi-layer-perceptron</ins>: A type of artificial neural network composed of multiple layers of nodes (neurons) that use non-linear activation functions.
 
-The plot displays the resulting regions indicating the color affiliation. These regions are delineated to illustrate the classification outcomes, with distinct areas representing the affiliation of different colors.
+The plots displays the resulting regions indicating the color affiliation. These regions are delineated to illustrate the classification outcomes, with distinct areas representing the affiliation of different colors.
 
 | # | Problem     | Logistic Regression Solution | MLP Solution
 | :----: |    :----:   |    :----:   |    :----:   |
