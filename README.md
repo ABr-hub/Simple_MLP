@@ -38,13 +38,13 @@ The plots displays the resulting regions indicating the color affiliation. These
  * **Problem**: This classification task involves a circular structure where a larger circle encompasses a smaller circle within it.
  * **Solution**:
    * *Logistic Regression*: As in #2 the logistic regression classifier can not find appropriate decision boundaries to solve this problem.
-   * *MLP*:  
+   * *MLP*: 
 
 **<ins># 4. Half-moons:</ins>**
  * **Problem**: This classification task involves two interleaving half circles.
  * **Solution**:
    * *Logistic Regression*: As in #2 the logistic regression classifier can not find appropriate decision boundaries to solve this problem.
-   * *MLP*: 
+   * *MLP*: The moons classification problem involves highly intricate or overlapping moon shape. Due to the low complexity of the implemented mlp, it struggles to find a suitable descision boundary to accurately separate the two classes.
 
 
 
