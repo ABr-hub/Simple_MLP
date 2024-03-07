@@ -94,7 +94,7 @@ The accompanying images illustrate the iterative problem-solving process observe
 
 <img src="https://github.com/ABr-hub/Simple_MLP/blob/f25321811243281fa3d8e7e76132016ffe8aeb8f/ressources/circlesMLP.gif"  width=44% height=44%/> <img src="https://github.com/ABr-hub/Simple_MLP/blob/f25321811243281fa3d8e7e76132016ffe8aeb8f/ressources/mlpMoon.gif"  width=44% height=44%/>
 
-(The color gradient indicates the condidence of the repective model on the class affiliation.)
+(The color gradient indicates the confidence of the repective model on the class affiliation.)
 
 
 ---
