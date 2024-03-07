@@ -96,5 +96,5 @@ The accompanying images illustrate the iterative problem-solving process observe
 ---
 
 ## Sources 
-[1] https://www.youtube.com/watch?v=Ilg3gGewQ5U (Backpropagation)
+[1] https://www.youtube.com/watch?v=Ilg3gGewQ5U (Backpropagation)  
 [2] https://courses.cs.washington.edu/courses/cse446/18wi/slides/perceptron.pdf (Perceptron)
