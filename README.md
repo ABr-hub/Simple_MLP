@@ -91,7 +91,7 @@ It should be emphasized, that this method applies the same mlp as in the section
 
 **Evolving the MLP to find a optimal solution**
 
-<img src="https://github.com/ABr-hub/Simple_MLP/blob/cc4a45a25e33d38b1b1caeaf0016021131e39ca1/ressources/EvoMLP/circlesEvoMLP.gif"  width=44% height=44%/> <img src="https://github.com/ABr-hub/Simple_MLP/blob/aba9f69ba338625f8c72604fd0a790e52ed589cc/ressources/EvoMLP/MoonsEvoMLP.gif"  width=44% height=44%/>
+<img src="https://github.com/ABr-hub/Simple_MLP/blob/cc4a45a25e33d38b1b1caeaf0016021131e39ca1/ressources/EvoMLP/circlesEvoMLP.gif"  width=34% height=34%/> <img src="https://github.com/ABr-hub/Simple_MLP/blob/aba9f69ba338625f8c72604fd0a790e52ed589cc/ressources/EvoMLP/MoonsEvoMLP.gif"  width=34% height=34%/>
 
 **Optimal solution via GA**
 
