@@ -88,6 +88,10 @@ This method replaces the network optimization method used in the MLP. Instead of
 
 It should be emphasized, that this method applies the same mlp as in the section before, only replacing the optimization algorithm from backpropagation to genetic algorithm. While doing so it can achieve roughly ~100% accuracy while with the backpropagation only ~50% accuracy where achieved.
 
+
+
+<img src="https://github.com/ABr-hub/Simple_MLP/blob/019f01a114599b6894e8e4b9d3814f7c98ca0ce1/ressources/EvoMLP/best_nn_gen41.png"  width=44% height=44%/> 
+
 ### ... higher complexity
 
 The accompanying images illustrate the iterative problem-solving process observed during the neural network's training phase, featuring a selection of sample problems. As training progresses, notable refinements to the decision boundary are evident, ultimately yielding an accuracy rate surpassing 90% for each respective problem scenario.
