@@ -90,9 +90,11 @@ It should be emphasized, that this method applies the same mlp as in the section
 
 
 **Evolving the MLP to find a optimal solution**
+
 <img src="https://github.com/ABr-hub/Simple_MLP/blob/cc4a45a25e33d38b1b1caeaf0016021131e39ca1/ressources/EvoMLP/circlesEvoMLP.gif"  width=44% height=44%/>
 
 **Optimal solution via GA**
+
 <img src="https://github.com/ABr-hub/Simple_MLP/blob/019f01a114599b6894e8e4b9d3814f7c98ca0ce1/ressources/EvoMLP/best_nn_gen41.png"  width=44% height=44%/> 
 
 ### ... higher complexity
