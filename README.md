@@ -89,7 +89,10 @@ This method replaces the network optimization method used in the MLP. Instead of
 It should be emphasized, that this method applies the same mlp as in the section before, only replacing the optimization algorithm from backpropagation to genetic algorithm. While doing so it can achieve roughly ~100% accuracy while with the backpropagation only ~50% accuracy where achieved.
 
 
+**Evolving the MLP to find a optimal solution**
+<img src="https://github.com/ABr-hub/Simple_MLP/blob/cc4a45a25e33d38b1b1caeaf0016021131e39ca1/ressources/EvoMLP/circlesEvoMLP.gif"  width=44% height=44%/>
 
+**Optimal solution via GA**
 <img src="https://github.com/ABr-hub/Simple_MLP/blob/019f01a114599b6894e8e4b9d3814f7c98ca0ce1/ressources/EvoMLP/best_nn_gen41.png"  width=44% height=44%/> 
 
 ### ... higher complexity
