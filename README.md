@@ -95,7 +95,7 @@ It should be emphasized, that this method applies the same mlp as in the section
 
 **Optimal solution via GA**
 
-<img src="https://github.com/ABr-hub/Simple_MLP/blob/019f01a114599b6894e8e4b9d3814f7c98ca0ce1/ressources/EvoMLP/best_nn_gen41.png"  width=44% height=44%/>  <img src="https://github.com/ABr-hub/Simple_MLP/blob/aba9f69ba338625f8c72604fd0a790e52ed589cc/ressources/EvoMLP/Circles_best_nn_gen12.png"  width=44% height=44%/> 
+<img src="https://github.com/ABr-hub/Simple_MLP/blob/019f01a114599b6894e8e4b9d3814f7c98ca0ce1/ressources/EvoMLP/best_nn_gen41.png"  width=34% height=34%/>  <img src="https://github.com/ABr-hub/Simple_MLP/blob/aba9f69ba338625f8c72604fd0a790e52ed589cc/ressources/EvoMLP/Circles_best_nn_gen12.png"  width=34% height=34%/> 
 
 ### ... higher complexity
 
